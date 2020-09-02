@@ -1,14 +1,13 @@
 ---
-layout: page
 title: About Us
 permalink: /about/
-published: false
+published: true
 ---
 ## We're Shortwood Creative
 
 ### Here's who we be
 
 {% for staff_member in site.staff_members %}
-  <h4>{{ staff_member.name }} - {{ staff_member.position }}</h4>
-  <p>{{ staff_member.content | markdownify }}</p>
+  <h4><a href="{{ staff_member.url }}">{{ staff_member.name }}</a> - {{ staff_member.position }}</h4>
+  <p>{{ staff_member.excerpt | markdownify }}</p>
 {% endfor %}

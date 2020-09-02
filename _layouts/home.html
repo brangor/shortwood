@@ -1,0 +1,15 @@
+---
+layout: default
+show-excerpts: true
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {% include featured_projects.html %}
+
+</div>

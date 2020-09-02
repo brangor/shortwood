@@ -1,8 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: About
+list-title: Projects
+show-excerpts: true
 ---
 AUDIO DRAMA REINVENTED FOR THE 21ST CENTURY
 We produce immersive audio entertainment.

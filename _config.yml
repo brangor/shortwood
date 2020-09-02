@@ -38,19 +38,21 @@ collections_dir: site_collections
 
 collections:
   staff_members:
-    url: "/people/"
-    people: true
     output: true
   projects:
     output: true
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
+      type: "staff_members"
+    values:
+      layout: "profile"
+  - scope:
+      path: ""
       type: "projects"
     values:
-      featured: false
+      layout: "project"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
