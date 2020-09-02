@@ -5,16 +5,16 @@ permalink: /projects/
 ---
 Shortwood {{ page.title }}
 
-{{ for project in site.projects }}
+{% for project in site.projects %}
   <h2>{{ project.title }}</h2>
   <p> {{ project.description }} </p>
-  {% if !project.award.nil? %}
-  <h3> {{ Awards | pluralize(project.award.count) }} </h3>
+  {% unless project.awards.nil? %}
+  <h3> {{ project.awards.count.to_s }}  </h3>
   <ul>
-    {% project.award.each do |award| %}
+    {% for award in project.awards %}
     <li> {{ award }} </li>
-    {% endeach %}
+    {% endfor %}
   </ul>
-  {% endif %}
+  {% endunless %}
   <p> {{ project.content | markdownify }} </p>
-{{ endfor }}
+{% endfor %}
