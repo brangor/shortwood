@@ -1,6 +1,6 @@
 ---
 name: Brandon
 position: Developer
-layout: page
+layout: snippet
 ---
 Brandon is Shortwood Creative's technical buddy. He made this website.
