@@ -34,14 +34,23 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections_dir: site_collections
+
 collections:
   staff_members:
+    url: "/people/"
     people: true
     output: true
   projects:
     output: true
 
-
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "projects"
+    values:
+      featured: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

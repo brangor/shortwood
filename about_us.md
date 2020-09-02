@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
+published: false
 ---
 ## We're Shortwood Creative
 
