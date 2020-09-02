@@ -33,23 +33,34 @@ github_username:  brangor
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 collections_dir: site_collections
 
 collections:
+  authors:
+    output: true
   staff_members:
-    people: true
     output: true
   projects:
     output: true
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
       type: "projects"
     values:
-      featured: false
+      layout: "project"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
