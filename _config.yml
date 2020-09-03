@@ -41,6 +41,8 @@ collections:
     output: true
   projects:
     output: true
+  categories:
+    output: true
 
 defaults:
   - scope:
@@ -53,6 +55,11 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: ""
+      type: "categories"
+    values:
+      layout: "category"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

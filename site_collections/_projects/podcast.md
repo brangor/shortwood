@@ -6,7 +6,7 @@ category:
 awards:
   - "Award #1"
   - "Award #2"
-layout: page
+image: https://via.placeholder.com/480x320?text=Podcast%20Example
 published: true
 featured: true
 ---
