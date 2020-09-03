@@ -1,0 +1,9 @@
+- name: Kids
+  image: https://via.placeholder.com/480x320?text=Kids
+  link: /category/kids/
+- name: Podcasts
+  image: https://via.placeholder.com/480x320?text=Podcasts
+  link: /category/podcasts/
+- name: Books
+  image: https://via.placeholder.com/480x320?text=Books
+  link: /category/books/

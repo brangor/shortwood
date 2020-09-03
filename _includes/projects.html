@@ -1,0 +1,6 @@
+{%- if site.projects.size > 0 -%}
+  <h2 class="post-list-heading">{{ page.list_title | default: "Projects" }}</h2>
+  {% for project in site.projects %}
+    {% include project.html title=project.title awards=project.awards content=project.content description=project.description %}
+  {% endfor %}
+{%- endif -%}
