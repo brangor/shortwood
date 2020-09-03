@@ -61,6 +61,12 @@ defaults:
     values:
       layout: "category"
 
+header_pages:
+  - index.md
+  - categories.md
+  - services.md
+  - contact_us.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

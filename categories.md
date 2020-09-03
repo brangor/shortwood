@@ -1,6 +1,6 @@
 ---
-title: Categories
-permalink: /categories/
+title: Portfolio
+permalink: /portfolio/
 ---
 {%- if site.categories.size > 0 -%}
 <div>
