@@ -1,0 +1,18 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+$dark-background: #111216;
+$light-background: #FAFAFA;
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card {
+  flex: 0 1 33%;
+}

@@ -1,0 +1,10 @@
+{%- if site.categories.size > 0 -%}
+  <h2 class="post-list-heading">{{ page.list_title | default: "Categories" }}</h2>
+  <div class="cards">
+  {%- for category in site.categories -%}
+    {% include card.html title=category.title
+                                 image=category.image
+                                 url=category.url %}
+  {%- endfor -%}
+</div>
+{%- endif -%}

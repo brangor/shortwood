@@ -1,0 +1,7 @@
+<div class="card">
+  <a href="{{ include.url | default: "google.com" }}">
+    <img class="product-image" src="{{ include.image | default: "https://via.placeholder.com/480x320?text=Example"}}" alt="">
+    <h3 class="product-title">{{ include.title | default: "Example"}}</h3>
+    <p>{{ include.description | default: ""}}</p>
+  </a>
+</div>

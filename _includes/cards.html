@@ -4,6 +4,7 @@
   {%- for project in site.projects -%}
     {% include card.html title=project.title
                                  image=project.image
+                                 description=project.description
                                  url=project.url %}
   {%- endfor -%}
   </div>
