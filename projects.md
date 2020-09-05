@@ -2,7 +2,7 @@
 title: Projects
 permalink: /projects/
 ---
-== Here's a header
+## Here's a header
 
 Some intro text here.
 
