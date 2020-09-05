@@ -60,6 +60,10 @@ defaults:
       type: "categories"
     values:
       layout: "category"
+  - scope:
+      path: /assets/images/
+    values:
+      image: true
 
 header_pages:
   - index.md
