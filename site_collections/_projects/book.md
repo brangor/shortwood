@@ -6,7 +6,7 @@ category:
 awards:
   - "Award #1"
   - "Award #2"
-image: /assets/images/book-project.jpg
+image: /shortwood/assets/images/book-project.jpg
 published: true
 ---
 This is an example of a featured book project.
