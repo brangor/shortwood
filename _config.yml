@@ -33,6 +33,7 @@ github_username:  brangor
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-admin
 
 collections_dir: site_collections
 
