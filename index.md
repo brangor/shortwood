@@ -2,10 +2,11 @@
 layout: home
 show-excerpts: true
 ---
-AUDIO DRAMA REINVENTED FOR THE 21ST CENTURY
-We produce immersive audio entertainment.
+Helping makers make it even better.
 
-Magical keys, government conspiracies, doorways to hidden worlds, or the inner reaches of the human heart – our ‘true north’ is the desire to create immersive entertainment that pushes genre boundaries.
+Shortwood Creative provides creative support for writers and makers, including mentoring, script editing, sound recording, engineering, directing and producing. We specialise in audio books, podcasts, audio drama and children's content.
 
-{% include categories.html %}
+#
+
+{% include contact_us.html %}
 

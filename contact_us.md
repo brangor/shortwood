@@ -3,4 +3,10 @@ title: Contact us
 permalink: /contact/
 ---
 
-[Email us](mailto:contact@shortwood.co.nz)
+### Shortwood Studios
+
+Silverstream
+
+New Zealand
+#
+Email us at [contact@shortwood.co.nz](mailto:contact@shortwood.co.nz)
