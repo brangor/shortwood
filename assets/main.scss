@@ -11,6 +11,10 @@ $light-background: #FAFAFA;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  
+  a h3 {
+    text-align: center;
+  }
 }
 
 .card {
