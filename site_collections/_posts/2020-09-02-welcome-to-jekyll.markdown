@@ -3,9 +3,9 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   02-09-2020
 categories:
-  - jekyll
-  - update
-published: false
+  - podcasts
+  - kids
+published: true
 ---
 
 {% for category in page.categories %}
