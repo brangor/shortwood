@@ -14,7 +14,8 @@ word
 * list
 * list
 
-1 number
-2 list
-3 formatting
+1. number
+2. list
+3. formatting
 
+![Misty background](assets/images/misty-background.png)
