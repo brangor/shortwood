@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Sample Post"
+date:   07-12-2020
+categories:
+  - podcasts
+  - kids
+published: true
+---
+
+# Hello
+body text
+word
+* list
+* list
+
+1 number
+2 list
+3 formatting
+
