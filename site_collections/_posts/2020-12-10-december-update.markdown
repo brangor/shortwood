@@ -8,7 +8,7 @@ categories:
 published: true
 ---
 
-# Shortwood Creative’s first year: audio stories and audiobooks, live performance, and fun stuff for kids
+# Audio stories and audiobooks, live performance, and fun stuff for kids
 
 Launching a small niche business in 2020 maybe wasn’t the best idea, but looking back we’re so proud of the projects we got to be involved with over the last few months.
 
