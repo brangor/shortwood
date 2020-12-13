@@ -12,7 +12,7 @@ published: true
 
 Launching a small niche business in 2020 maybe wasn’t the best idea, but looking back we’re so proud of the projects we got to be involved with over the last few months.
 
-A highlight has to be *Love Linda*. The Wellington based production company [Wanderlust Opera](https://www.wanderlustopera.com/what-s-on) asked Shortwood to come on board for acting-coaching, stage direction and production support in its New Zealand premiere of the one woman (and three live jazz players) musical show.
+A highlight has to be *Love Linda*. Georgia Jamieson Emms, of the Wellington production company [Wanderlust Opera](https://www.wanderlustopera.com/what-s-on), asked Shortwood to come on board for acting-coaching, stage direction and production support in its New Zealand premiere of the one woman (and three live jazz players) musical show.
 
 >“As Mrs Porter, Jamieson Emms is convincingly the charming Southern Belle and gracious hostess. She gleefully reveals Linda’s cutting wit as she delivers the text with superb timing. Subtext and innuendo rule as well-known figures of the music world and high society are skewered by Linda’s pithy and sometimes pointed observations.” - Lisa Simpson, [Theatreview](http://theatreview.org.nz/reviews/review.php?id=12531) 
 
