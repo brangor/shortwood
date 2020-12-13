@@ -12,7 +12,7 @@ published: true
 
 Launching a small niche business in 2020 maybe wasn’t the best idea, but looking back we’re so proud of the projects we got to be involved with over the last few months.
 
-A highlight has to be *Love Linda*. The Wellington based production company Wanderlust Opera asked Shortwood to come on board for acting-coaching, stage direction and production support in its New Zealand premiere of the one woman (and three live jazz players) musical show.
+A highlight has to be *Love Linda*. The Wellington based production company [Wanderlust Opera](https://www.wanderlustopera.com/what-s-on) asked Shortwood to come on board for acting-coaching, stage direction and production support in its New Zealand premiere of the one woman (and three live jazz players) musical show.
 
 >“As Mrs Porter, Jamieson Emms is convincingly the charming Southern Belle and gracious hostess. She gleefully reveals Linda’s cutting wit as she delivers the text with superb timing. Subtext and innuendo rule as well-known figures of the music world and high society are skewered by Linda’s pithy and sometimes pointed observations.” - Lisa Simpson, [Theatreview](http://theatreview.org.nz/reviews/review.php?id=12531) 
 
@@ -22,7 +22,7 @@ Adam began working with Georgia Jamieson Emms, who plays Linda Porter, as an act
 
 *Love Linda* is booked to tour Waipawa, Napier, Palmerston North and Tauranga in early 2021 and more dates and locations are yet to be announced. We’re excited to keep working with Wanderlust and looking forward to hitting the road again soon as part of this stellar show. Speaking of stellar, did you catch the Geminid meteor shower? Just asking.
 
-This year we’ve also been doing short story assessments, getting involved with editing and mentoring new writers, teaching recording technique and presenting for podcasts and working towards a major project for kids (watch this space!). And we’ve completed another audio book (our third). We’ve worked with publishers Penguin Random House for the first time to record a wonderful New Zealand book. We’re not allowed to talk about the project yet, but we all cried (in a good way) listening to the final audio. It’s a pretty special and amazing story, so stand by and be prepared.
+This year we’ve also been doing short story assessments, getting involved with editing and mentoring new writers, teaching recording technique and presenting for podcasts and working towards a major project for kids (watch this space!). And we’ve completed another audio book (our third). We’ve worked with publishers [Penguin Random House](https://www.penguinrandomhouse.co.nz/) for the first time to record a wonderful New Zealand book. We’re not allowed to talk about the project yet, but we all cried (in a good way) listening to the final audio. It’s a pretty special and amazing story, so stand by and be prepared.
 
 It’s almost Christmas so we’re going to take a break, play some music together, and have a BBQ at our HQ in sunny Silverstream.
 
