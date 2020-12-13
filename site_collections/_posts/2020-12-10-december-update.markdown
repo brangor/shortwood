@@ -22,7 +22,7 @@ Adam began working with Georgia, who plays Linda Porter, as an acting coach and 
 
 ![Georgia Jamieson Emms with the Jazz band for Love Linda](/assets/images/Love%20Linda.jpg)
 
-*Love Linda* is booked to tour Waipawa, Napier, Palmerston North and Tauranga in early 2021 and more dates and locations are yet to be announced. We’re excited to keep working with Wanderlust and looking forward to hitting the road again soon as part of this stellar show. Speaking of stellar, did you catch the Geminid meteor shower? Just asking.
+*Love Linda* is booked to tour Waipawa, Napier, Palmerston North and Tauranga in early 2021 and more dates and locations are yet to be announced. We’re excited to keep working with Wanderlust and looking forward to hitting the road again soon as part of this stellar show. (Speaking of stellar, did you catch the Geminid meteor shower? Just asking.)
 
 This year we’ve also been doing short story assessments, getting involved with editing and mentoring new writers, teaching recording technique and presenting for podcasts and working towards a major project for kids (watch this space!). And we’ve completed another audio book (our third). We’ve worked with publishers [Penguin Random House](https://www.penguinrandomhouse.co.nz/) for the first time to record a wonderful New Zealand book. We’re not allowed to talk about the project yet, but we all cried (in a good way) listening to the final audio. It’s a pretty special and amazing story, so stand by and be prepared.
 
